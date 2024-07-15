@@ -15,9 +15,7 @@ register them on the platform, and allow people to search for their documents. C
 If they did not find it, they could record their data for future searches.
 My diverse experience in backend and frontend development, combined with
 My ability to work on innovative and impactful projects makes me a
-qualified candidate to join your team. I'm excited about the possibility
-to contribute to the company and I am available to discuss how my skills and
-experiences can be valuable to your team.
+qualified candidate to join your team.
 <!--
 **euclidesrosario/euclidesrosario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
